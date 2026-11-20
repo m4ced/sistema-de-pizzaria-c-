@@ -1,0 +1,8 @@
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\bin\Debug\sistem.pizzaria.exe.config
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\bin\Debug\sistem.pizzaria.exe
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\bin\Debug\sistem.pizzaria.pdb
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\obj\Debug\sistem.pizzaria.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\obj\Debug\sistem.pizzaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\obj\Debug\sistem.pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\obj\Debug\sistem.pizzaria.exe
+C:\Users\etec\source\repos\sistem.pizzaria\sistem.pizzaria\obj\Debug\sistem.pizzaria.pdb
